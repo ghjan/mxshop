@@ -1,0 +1,5 @@
+.idea
+*.pyc
+**/migrationis/*
+db.sqlite3
+
