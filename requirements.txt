@@ -4,3 +4,4 @@ djangorestframework-jwt
 markdown
 pillow
 MySQLClient
+django-filter
